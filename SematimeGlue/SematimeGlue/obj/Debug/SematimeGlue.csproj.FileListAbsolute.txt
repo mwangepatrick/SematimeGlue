@@ -1,0 +1,11 @@
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\bin\Debug\SematimeGlue.dll
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\bin\Debug\SematimeGlue.pdb
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\bin\Debug\RestSharp.dll
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\bin\Debug\RestSharp.xml
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\obj\Debug\SematimeGlue.csprojAssemblyReference.cache
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\obj\Debug\SematimeGlue.csproj.CoreCompileInputs.cache
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\obj\Debug\SematimeGlue.csproj.CopyComplete
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\obj\Debug\SematimeGlue.dll
+D:\Dropbox (Personal)\i-pos family\sematime\SematimeGlue\SematimeGlue\SematimeGlue\obj\Debug\SematimeGlue.pdb
