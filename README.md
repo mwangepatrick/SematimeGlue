@@ -21,4 +21,7 @@ With Sematime Glue, Currently, you can only send messages using the sematime API
 var sematimeGlue = new SematimeGlue()
 ```
 
-## Developer guidelines
+## Minimum Requirements
+
+To run Sematime Glue, you need:
+1. .Net Framework version >= 4.5.2
