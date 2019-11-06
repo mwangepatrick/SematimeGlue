@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SematimeGlue\SematimeGlue.csproj">
+      <Project>{81249137-6056-4b9d-bd30-c5e12857837c}</Project>
+      <Name>SematimeGlue</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
