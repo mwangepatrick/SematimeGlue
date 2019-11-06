@@ -32,3 +32,4 @@
 *.app
 
 /SematimeGlue/.vs/*
+/SematimeGlue/TestApp/*
