@@ -6,7 +6,7 @@ The DLL exploits version 4 of the [Sematime API](http://sematime.com/).
 
 This DLL works with any .NET Framework languages
 
-[For more information see the wiki]()
+[For more information see the wiki](https://github.com/mwangepatrick/sematime-glue/wiki)
 
 ### Install Sematime Glue
 
